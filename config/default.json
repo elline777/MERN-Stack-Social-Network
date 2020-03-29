@@ -1,6 +1,0 @@
-{
-  "mongoURI": "mongodb+srv://Lissa:nad995@devconnector-utekf.mongodb.net/test?retryWrites=true&w=majority",
-  "jwtSecret": "mysecrettoken",
-  "githubClientId": "a3b3ca6d91101d13b7e9",
-  "githubSecret": "c37ea24199f9d4545b0b1003abe2b306032f36f1"
-}
